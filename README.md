@@ -4,6 +4,7 @@
 ```
 npm install
 npm run serve
+npm run build
 ```
 
 
@@ -13,5 +14,8 @@ npm run serve
 [Fahad.](https://www.instagram.com/n5y/)
 <br>
 [Mazin.](https://www.instagram.com/alonemazin/)
+<br>
+<br>
+https://discord.gg/ar-t
 
 
