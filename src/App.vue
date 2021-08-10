@@ -139,8 +139,8 @@ export default {
       }
     },
     AddCoin(c){
-      if (!this.CoinsList.includes(c)){
-        this.CoinsList.push(c)
+      if (!this.CoinsList.includes(c.toUpperCase())){
+        this.CoinsList.push(c.toUpperCase())
         this.upDate()
         this.newCoin = null
       }else{
