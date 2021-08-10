@@ -1,4 +1,4 @@
-# coinnow
+# coinnow - Live Crypto price with multi coins 
 
 ## Project setup
 ```
