@@ -60,7 +60,7 @@
 
     <b-card bg-variant="Light" class="text-left mt-2" text-variant="dark">
       <b-container class="text-center">
-        <h5 class="text-left mb-3 mt-1">Live now 🔴 | Refresh every 1 second</h5>
+        <h5 class="text-left mb-3 mt-1">Live now 🔴 | Refresh every 2 second</h5>
         <b-row cols="3" style="justify-content: space-between;">
           <b-card
             v-for="(result, index) in results"
