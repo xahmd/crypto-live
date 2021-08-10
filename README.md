@@ -3,22 +3,13 @@
 ## Project setup
 ```
 npm install
-```
-
-### Compiles and hot-reloads for development
-```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Made by 
+[Ahmed.](https://www.instagram.com/2088/)
+[Fahad.](https://www.instagram.com/n5y/)
+[Mazin.](https://www.instagram.com/alonemazin/)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
