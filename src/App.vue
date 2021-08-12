@@ -82,7 +82,7 @@
 
     <div class="mt-4" style="display: flex;justify-content: space-between;">
  
-   <a href="https://google.com">Source code</a>
+   <a href="https://github.com/AR4Team/crypto-live">Source code</a>
    
 
 
@@ -108,7 +108,7 @@ export default {
     url: null
   }),
 //BTC,ETH,BNB,ADA,XRP,DOGE,DOT,UNI,BCH,LTC,LINK,USDT
-// aa
+
   mounted() {
     this.upDate();
     this.timer = setInterval(this.upDate, 1000);
