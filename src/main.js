@@ -9,3 +9,5 @@ Vue.config.productionTip = false
 new Vue({
   render: h => h(App),
 }).$mount('#app')
+
+// شوف مثلاً انت عدلت شيء تروح لقيت هب دسكتوب وتسوي كذا
