@@ -108,7 +108,7 @@ export default {
     url: null
   }),
 //BTC,ETH,BNB,ADA,XRP,DOGE,DOT,UNI,BCH,LTC,LINK,USDT
-// c
+// aa
   mounted() {
     this.upDate();
     this.timer = setInterval(this.upDate, 1000);
