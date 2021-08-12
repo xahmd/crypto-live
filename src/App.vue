@@ -83,12 +83,13 @@
     <div class="mt-4" style="display: flex;justify-content: space-between;">
  
    <a href="https://google.com">Source code</a>
+   
 
 
       
   
 
-      <a :href="url">For Developers</a>
+      <a href="http://artapi.cf/index.php?crypto=BTC,ETH,USDT,BNB,ADA,XRP,DOGE,USDC,DOT,UNI,BUSD,BCH,LTC,LINK&coins=USD,SAR">For Developers</a>
     </div>
   </div>
 </template>
