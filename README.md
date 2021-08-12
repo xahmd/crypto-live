@@ -6,7 +6,10 @@ npm install
 npm run serve
 npm run build
 ```
-
+# Try our api - you can add (crypto-coins) as you like - 100% free & without any rate limit
+```
+http://artapi.cf/index.php?crypto=BTC,ETH,USDT,BNB,ADA,XRP,DOGE,USDC,DOT,UNI,BUSD,BCH,LTC,LINK&coins=USD,SAR
+```
 
 ## Made by 
 [Ahmed.](https://www.instagram.com/2088/)
