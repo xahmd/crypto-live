@@ -2,7 +2,7 @@
 
 ## Project setup
 ```
-npm install
+npm install -or- npm i
 npm run serve
 npm run build
 ```
