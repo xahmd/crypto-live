@@ -5,7 +5,7 @@
       bg-variant="Light"
       class="text-center"
       text-variant="dark"
-      title="Coin Now"
+      title="Coins Now"
     >
       <b-card-text> Simple app to see cryptocurrency prices live </b-card-text>
       <a>Follow us: </a>
